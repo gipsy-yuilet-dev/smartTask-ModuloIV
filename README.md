@@ -104,8 +104,3 @@ SmartTask é uma pequena aplicação de console em Java para gerir tarefas. Poss
 
 ---
 
-Si quieres, puedo también:
-- Añadir un `build.gradle` o `pom.xml` para automatizar el build y el empaquetado.
-- Ejecutar las pruebas unitarias y adjuntar el reporte.
-
-Gracias, dime cómo prefieres proceder.
