@@ -1,0 +1,14 @@
+SmartTask/
+├── src/
+│   └── cl/
+│       └── smarttask/
+│           ├── interfaces/
+│           │   └── Accionable.java      <-- (Lección 6)
+│           ├── model/
+│           │   ├── Tarea.java           <-- (Lección 3, 5 - Clase Base)
+│           │   ├── TareaNormal.java     <-- (Lección 6 - Herencia)
+│           │   └── TareaUrgente.java    <-- (Lección 6 - Herencia)
+│           ├── service/
+│           │   └── GestorTareas.java    <-- (Lección 5 - Lógica de negocio)
+│           └── main/
+│               └── Main.java            <-- (Lección 4 - Punto de entrada)
